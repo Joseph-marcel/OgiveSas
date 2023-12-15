@@ -1,0 +1,126 @@
+
+.depicter-revert .depicter-7-element-31{
+	background-color:transparent;
+}
+.depicter-7-element-31 .depicter-bullet-item{
+	background-color:rgba(0,0,0,0.5);
+	border-radius:5px 5px 5px 5px ;
+	margin-right:5px;
+	width:9px;
+	height:9px;
+}
+.depicter-7-element-31 .depicter-bullet-item.depicter-bullet-active{
+	background-color:rgba(0,0,0,1);
+}
+.depicter-revert .depicter-7-element-33{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000000;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-7-element-33 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-7-element-34{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000000;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-7-element-34 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-7-element-13{
+	font-size:24px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Oswald";
+	font-weight:200;
+	background-color:#FFBD29;
+	border-radius:6px;
+}
+.depicter-revert .depicter-7-element-12{
+	font-size:22px;
+	text-align:left;
+	color:#000000;
+	font-family:"Oswald";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-7-element-10{
+	opacity:0.86;
+	font-size:32px;
+	text-align:center;
+	color:#000000;
+	font-family:"Oswald";
+	font-weight:300;
+	line-height:120%;
+	text-transform:uppercase;
+	direction:ltr;
+	text-decoration:;
+	background-color:transparent;
+}
+.depicter-revert .depicter-7-section-1 .depicter-section-background{
+	background-color:#D8E8FF;
+}
+.depicter-revert .depicter-7-section-44 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-7-element-51{
+	font-size:22px;
+	color:#000000;
+	font-family:"Oswald";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-7-section-47 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-7-element-31{
+	background-color:transparent;
+}
+.depicter-7-element-31 .depicter-bullet-item{
+	background-color:rgba(0, 0, 0, 0.5);
+}
+.depicter-7-element-31 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#000000;
+}
+.depicter-revert .depicter-7-element-12{
+	font-size:22px;
+	text-align:left;
+	color:#000000;
+	font-family:"Oswald";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-7-section-1 .depicter-section-background{
+	background-color:#D8E8FF;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-7-element-33{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000000;
+}
+.depicter-7-element-33 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-7-section-1 .depicter-section-background{
+	background-color:#D8E8FF;
+}
+
+}

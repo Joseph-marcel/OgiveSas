@@ -1,0 +1,4 @@
+2023-11-20T10:02:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans D:\wamp64\www\ogivesas\wp-includes\Requests\src\Transport\Curl.php à la ligne 533
+
+2023-11-20T10:02:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans D:\wamp64\www\ogivesas\wp-includes\Requests\src\Transport\Curl.php à la ligne 205
+

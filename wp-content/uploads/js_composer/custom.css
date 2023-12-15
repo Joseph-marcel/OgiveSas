@@ -1,0 +1,22 @@
+.ot-btn{
+    font-size:12px;
+    margin-bottom:10px;
+    margin-top:10px;
+}
+
+.description{
+    color:#ffff;
+}
+
+.section{
+    padding:30px 0;
+}
+
+.team-item h4{
+    font-size:12px;
+}
+
+.team-item p{
+    font-size:11px;
+    font-family: Oswald,sans-serif;
+}

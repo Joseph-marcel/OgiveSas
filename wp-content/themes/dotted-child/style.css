@@ -1,0 +1,272 @@
+/*
+Theme Name:     Dotted Child
+Theme URI:      http://demo.oceanthemes.net/dotted/
+Description:    Make your modifications to [Parent Theme] in this child theme.
+Author:         OceanThemes
+Author URI:     http://oceanthemes.net/
+Version:        1.0
+Template:       dotted
+*/
+
+@import url("../dotted/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+.ot-btn{
+    font-size:12px;
+    margin-bottom:10px;
+    margin-top:10px;
+}
+
+.description{
+    color:#ffff;
+}
+
+.section{
+    padding:30px 0;
+}
+
+.team-item h4{
+    font-size:12px;
+}
+
+.team-item p{
+    font-size:11px;
+    font-family: Oswald,sans-serif;
+}
+
+.service-p{
+	padding-left:5px;
+}
+
+.service-s{
+	padding-left:20px;
+}
+
+.service-x{
+	padding-left:13px;
+}
+
+.iconbox-set-1 a{
+	font-size:12px;
+	background-color:#ffbd29;
+}
+
+footer{
+	padding:54px 0 48px;
+}
+
+section{
+	padding:40px 0;
+}
+
+.btn-main-color{
+	background-color:#ffbd29 !important;
+}
+
+.logo-clients{
+	background-color:#ffbd29 !important;
+}
+
+.customNavigation-1 a.btn-1,
+.title-inline{
+	color:#ffff !important;
+}
+
+a.btn-1{
+	border-color:#ffff !important;
+}
+
+.icon-1{
+	width:0px;
+	height:0px;
+	border-style:none;
+}
+
+.navi-right > li > a i{
+	color:#ffff;
+	font-size:16px;
+}
+
+.navi-right > li > a{
+	border-color:#ffff;
+	line-height:37px;
+	width:37px;
+	height:37px;
+}
+
+.topbar-info-1 li a{
+	color:#ffff;
+}
+
+.title-subheader{
+	color:#ffff;
+	line-height:19px;
+}
+
+.sub-header-border {
+	border-bottom:1px solid #ffbd29 !important;
+}
+
+.breadcrumb,
+.breadcrumb li,
+.breadcrumb a{
+	color:#ffff;
+	font-family:"Oswald", sans-serif;
+	line-height:18px;
+	font-size:12px;
+}
+
+.dropdown-menu li a {
+	font-family:"Oswald", Arial, sans-serif;
+	font-size:16px !important;
+	background:#ffbd29 !important;
+}
+
+.topbar-info-1 li{
+	color:#ffbd29;
+	font-family:"Oswald",sans-serif;
+}
+
+.topbar-info span{
+	color:#ffbd29;
+}
+
+.text-copyright-1{
+	float:none;
+	font-family:"Oswald", sans-serif, Arial;
+	text-align:center;
+}
+
+.vc_custom_1477026057622{
+	padding-bottom:11px !important;
+}
+
+.widget .social-f1 li a{
+	background:#555555;
+}
+
+.sidebar-page{
+	background-color:#f2f2f2;
+	font-family:"Oswald",sans-serif;
+}
+
+label{
+	margin-top:13px;
+	margin-bottom:13px;
+}
+
+.widget{
+	margin-bottom:3px;
+}
+
+.widget li a{
+	font-family:"Oswald",sans-serif;
+}
+
+.pagination-blog{
+	margin-top:-68px;
+}
+
+.navi-level-1{
+	font-size:14px;
+}
+
+.blog-footer-2 ul{
+	float:right;
+}
+
+.useful-link li{
+	font-size:16px;
+	font-family:"Oswald", sans-serif;
+	border-bottom: 3px solid rgba(255,255,255,0.1);
+	padding:4px 0;
+}
+
+/*blog-footer-2 border-color-theme*/
+.blog-list-style-2{
+	font-style:italic;
+	font-family:"Oswald",sans-serif;
+}
+
+/*blog-text*/
+.post-text-style{
+	font-size:16px;
+	font-family:"Oswald",sans-serif;
+}
+
+.blog-feature-content-inner{
+	background-color:#f2f2f2;
+}
+
+.owl-relate-blog p{
+	font-family:"Oswald",sans-serif;
+	font-size:9px;
+}
+
+.nav-links a{
+	font-size:12px;
+}
+
+.nav-links{
+	margin-bottom:38px;
+}
+
+.related-post{
+	margin-bottom:20px;
+}
+
+.col-detail p{
+	font-family:"Oswald",sans-serif;
+}
+
+.call1 h3{
+	font-size:31px;
+	font-family:"Oswald",sans-serif;
+	font-weight:bold;
+	margin-bottom:none;
+}
+
+.call1 .ot-btn{
+	top:43%;
+}
+
+.call1 p{
+	padding-right:133px;
+	font-size:19px;
+	font-family:"Oswald",sans-serif;
+}
+
+.call-action p{
+	margin-bottom:none;
+}
+
+.blink_me {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+.vc_cta3-container{
+	margin-bottom:none;
+}
+
+.vc_btn3.vc_btn3-size-md{
+	font-size:16px;
+	font-family:"Oswald",sans-serif;
+}
+
+.wp-block-search_input{
+	font-family:"Oswald",sans-serif;
+}
+
+
+
+
+
+
+
